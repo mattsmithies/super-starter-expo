@@ -10,3 +10,27 @@ As a product the idea is to update the styling of screens that focus on push eve
 Remove the need for dealing with XCode/Android studio and use Expo's features.
 
 Folder Structure is suitable for small/medium sized projects as it focuses on vertical folder complexity over horizontal.
+
+## Installation
+
+```
+$ yarn
+```
+
+## Run Expo
+
+```
+$ yarn start
+```
+
+## Run Prettier Watcher
+
+```
+$ yarn prettier-watch
+```
+
+## Run eslint
+
+```
+$ yarn eslint
+```
